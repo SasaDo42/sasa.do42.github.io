@@ -8,6 +8,10 @@
     <main>
     <h1>------ club42 ------</h1>
     <p> aperitivo letterario </p>
+      <figure>
+    <img src="club42_icon.png" alt="club42_icon">
+     <figcaption>***</figcaption>
+      </figure>
     <section>
     <h2>Eventi in programma</h2>
     <ul>
