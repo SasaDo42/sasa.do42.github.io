@@ -9,7 +9,7 @@
     <h1>------ club42 ------</h1>
     <p> aperitivo letterario </p>
     <section>
-    <h2>Ingredients</h2>
+    <h2>Eventi in programma</h2>
     <ul>
       <li>We are family</li>
       <li>Mare&Stelle</li>
@@ -18,16 +18,13 @@
     </ul>
     </section>
     <section>
-    <h2>Instructions</h2>
+    <h2>Eventi passati</h2>
     <ol>
       <li>Time keeps on slipping</li>
-      <li>Time keeps on slipping</li>
-      <li>Time keeps on slipping</li>
-      <li>Time keeps on slipping</li> 
     </ol>
     <figure>
     <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg" alt="Foto di gatti per la ricetta">
-     <figcaption>Il nostro gatto mascotte</figcaption>
+     <figcaption>***</figcaption>
       </figure>
       </section>
       </main>
