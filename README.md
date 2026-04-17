@@ -9,7 +9,7 @@
     <h1>------ club42 ------</h1>
     <p> aperitivo letterario </p>
       <figure>
-    <img src="club42_icon.png" alt="club42_icon">
+    <img src="club42_icon.png" alt="club42_icon" width="100" height="100">
      <figcaption>***</figcaption>
       </figure>
     <section>
