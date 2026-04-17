@@ -23,7 +23,7 @@
       <li>Time keeps on slipping</li>
     </ol>
     <figure>
-    <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg" alt="Foto di gatti per la ricetta">
+    <img src="club42_icon.png" alt="club42_icon">
      <figcaption>***</figcaption>
       </figure>
       </section>
