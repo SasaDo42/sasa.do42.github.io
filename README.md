@@ -7,7 +7,7 @@
   <body>
     <main>
     <h1>------ club42 ------</h1>
-    <p> aperitivo letterario
+    <p> aperitivo letterario </p>
     <section>
     <h2>Ingredients</h2>
     <ul>
