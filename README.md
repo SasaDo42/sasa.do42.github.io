@@ -27,7 +27,7 @@
       <li>Time keeps on slipping</li>
     </ol>
     <figure>
-    <img src="club42_icon.png" alt="club42_icon">
+    <img src="t-shirt print.png" alt="club42_icon">
      <figcaption>***</figcaption>
       </figure>
       </section>
